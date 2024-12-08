@@ -9,7 +9,7 @@ public struct Building {
     public init(){}
     
     public static func Dimensions() -> Int
-    {
+    {==
         return 2 * 2 * 2 * dimension
     }
     
